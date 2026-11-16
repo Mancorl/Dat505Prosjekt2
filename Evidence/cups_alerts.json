@@ -1,0 +1,11 @@
+[
+  {
+    "timestamp": "2026-11-16T16:21:19.308031Z",
+    "type": "SUSPICIOUS_IPP_URI",
+    "severity": "high",
+    "src": "172.18.0.1:631",
+    "dst": "172.18.0.2:631",
+    "detail": "Printer advertisement points at non-standard port 29999",
+    "raw_summary": "ipp://192.168.10.184:29999/printers/NAME"
+  }
+]
